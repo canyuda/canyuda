@@ -8,9 +8,6 @@
 ### 🛠 Languages and Tools
 [<img src="https://skillicons.dev/icons?i=java,idea,linux,mysql,rabbitmq,redis,vscode,windows,ai" />](https://skillicons.dev)
 
-### 📊 GitHub Stats
-![Your GitHub Stats](https://vercel-for-me-virid.vercel.app/api?username=canyuda&show_icons=true)
-
 ---
 ### 🔗 Connect with me
 [<img src="https://img.shields.io/badge/email-helloyuda95@163.com-green?style=for-the-badge"/>](mailto:helloyuda95@163.com)
