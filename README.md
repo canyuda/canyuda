@@ -6,11 +6,11 @@
 ⚡ Fun fact: [我的猫叫"Java"]
 
 ### 🛠 Languages and Tools
-[<img src="https://skillicons.dev/icons?i=java" />](https://skillicons.dev)
+[<img src="https://skillicons.dev/icons?i=java,idea,linux,mysql,rabbitmq,redis,vscode,windows,ai" />](https://skillicons.dev)
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=canyuda&show_icons=true)
 
 ---
 ### 🔗 Connect with me
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/yourusername)
+[<img src="https://img.shields.io/badge/email-helloyuda95@163.com-green?style=for-the-badge"/>](mailto:helloyuda95@163.com)
