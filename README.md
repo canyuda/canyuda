@@ -1,9 +1,9 @@
 # Hi, I'm [canyuda] 👋
 
-🔭 I’m currently working on: [Ciff]
-🌱 I’m learning: [Code with me by Claude Code]
-💬 Ask me about: [Java后端开发]
-⚡ Fun fact: [我的猫叫"Java"]
+- 🔭 I’m currently working on: [Ciff]
+- 🌱 I’m learning: [Code with me by Claude Code]
+- 💬 Ask me about: [Java后端开发]
+- ⚡ Fun fact: [我的猫叫"Java"]
 
 ### 🛠 Languages and Tools
 [<img src="https://skillicons.dev/icons?i=java,idea,linux,mysql,rabbitmq,redis,vscode,windows,ai" />](https://skillicons.dev)
