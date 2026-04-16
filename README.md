@@ -5,7 +5,7 @@
 - 💬 Ask me about: [Java后端开发]
 - ⚡ Fun fact: [我的猫叫"Java"]
 
-[Blog](https://blog.canyuda.top/)
+[My Blog: https://blog.canyuda.top/](https://blog.canyuda.top/)
 
 ### 🛠 Languages and Tools
 [<img src="https://skillicons.dev/icons?i=java,idea,linux,mysql,rabbitmq,redis,vscode,windows,ai" />](https://skillicons.dev)
